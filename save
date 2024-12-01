@@ -1,0 +1,67 @@
+5
+ROOM
+1
+This is room number 1.
+
+None
+0
+Pitfall
+-1
+-1
+-1
+2
+ROOM
+2
+This is room number 2.
+
+None
+0
+None
+-1
+-1
+1
+3
+ROOM
+3
+This is room number 3.
+
+Dragon
+20
+None
+4
+-1
+2
+-1
+ROOM
+4
+This is room number 4.
+
+None
+0
+None
+-1
+3
+-1
+5
+ROOM
+5
+This is room number 5.
+
+Wizard
+27
+None
+-1
+-1
+4
+-1
+PLAYER
+Hero
+64
+10
+8
+4
+Magicwand
+Armor
+Shield
+Sword
+5
