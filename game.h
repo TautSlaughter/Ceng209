@@ -13,7 +13,7 @@ typedef struct {
     char name[50];
     int health;
     int strength;
-    int gold;  // Added gold field
+    int gold;  // gold field
     char inventory[MAX_INVENTORY][50];
     int inventory_count;
 } Player;
@@ -24,7 +24,7 @@ typedef struct Room {
     char item[50];
     char creature[50];
     int creature_health;
-    char trap[50];  // Added trap field
+    char trap[50];  // trap field
     struct Room *up;
     struct Room *down;
     struct Room *left;
