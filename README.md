@@ -1,6 +1,6 @@
 # Ceng209
-# Dungeon Adventure Game
 Teoman Güven 23050151039
+# Dungeon Adventure Game
 
 Welcome to the **Dungeon Adventure Game**! This is a text-based adventure game where you explore rooms, collect items, fight creatures, and manage your inventory. The game is written in C and provides a simple yet engaging gameplay experience.
 
